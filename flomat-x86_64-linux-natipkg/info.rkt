@@ -5,4 +5,4 @@
 (define copy-foreign-libs '("libblas.so.3"
                             "libgfortran.so.3"
                             "liblapack.so.3"
-                            "libquadmath.so.3"))
+                            "libquadmath.so.0"))
